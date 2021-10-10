@@ -43,28 +43,28 @@ Project created by <a href="https://github.com/DEVANANDH">DEVANANDH</a> to make 
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://i.imgur.com/6CqMv7z.jpg" alt="DEVANANDH" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://i.imgur.com/6CqMv7z.jpg" alt="DEVANANDH" /></p>
 </p>
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
+  
 <p align="center">
-Click WA logo to Join Support Group 👇
+
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a ><img align="center" src="https://i.imgur.com/6CqMv7z.jpg" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
+  
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.imgur.com/6CqMv7z.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+<p><img align="center" src="https://i.imgur.com/6CqMv7z.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
