@@ -64,7 +64,7 @@ Project created by <a href="https://github.com/DEVANANDH">DEVANANDH</a> to make 
   
 <p align="center">
 
-    <br>
+    
 <br>
 <p><img align="center" src="https://i.imgur.com/6CqMv7z.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
