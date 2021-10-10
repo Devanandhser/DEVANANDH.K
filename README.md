@@ -1,7 +1,7 @@
 <a border="0"></a>
 <div align="center">
 
-        <img src=http://devanandh_ser/alt="GIF" width="250" height="200"/>
+        <img src=http://devanandh_ser/
 
 <div align="center">
 
