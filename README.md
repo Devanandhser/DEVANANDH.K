@@ -52,11 +52,11 @@ Project created by <a href="https://github.com/DEVANANDH">DEVANANDH</a> to make 
 ##
   <div align="center">
 
-## [![DEVANANDH](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Devanandh+WA+Bot+repo;Created+by+DEVANANDH_+SER;This+is+the+Best+Bgm+bot;With+more+features;..+..+DEVANANDH+SER+..+..)](https://bit.ly/2VM4lxF)
+## [![DEVANANDH](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Devanandh+WA+Bot+repo;Created+by+DEVANANDH_+SER;..+..+DEVANANDH+SER+..+..)](https://bit.ly/2VM4lxF)
 <p align="center">
 
-    <br>
-<br>
+   ## [![DEVANANDH](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Devanandh+WA+Bot+repo;Created+by+DEVANANDH_+SER;..+..+DEVANANDH+SER+..+..)](https://bit.ly/2VM4lxF)
+
   <a ><img align="center" src="https://i.imgur.com/6CqMv7z.jpg" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
